@@ -1,4 +1,4 @@
-First of all thank you for your interest in contributing to CInP.
+First of all thank you for your interest in contributing to the t3kton project.
 
 Before accepting your contribution we need to agree on a few things.
 
@@ -13,9 +13,10 @@ as possible.
 License Grant
 -------------
 
-Our project is licensed under the Apache-2.0.  Any and all contributions
-will fall under this license.  Your and your contribution will be held to
-the terms of the Apache-2.0 license.  At some point in the future we may need
-to change Licenses, you are agreeing to allow us to change the License
-as needed to any other OSI Approved License.
+Our project is licensed under a combination of the the Apache-2.0 and MIT Licenses.
+Any and all contributions will fall under these licenses (depending on the component).
+Your and your contribution will be held to the terms of the relivent license.
+At some point in the future we may need to change Licenses, you are agreeing
+to allow us to change the License as needed to any other OSI Approved License.
 
+Thanks For all that you do to contrubute the the world of Open Source!
